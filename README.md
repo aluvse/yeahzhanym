@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yeahzhanym
 - 👀 I’m interested in Go
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on google
+- 💞️ I’m looking to collaborate with google
 - 📫 How to reach me yeahzhanym@gmail.com or telegram: yeahzhanym
 
 <!---
