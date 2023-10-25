@@ -9,7 +9,7 @@
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
 
 <details close>
-  <summary>Always remember why you started ( N💘, Canada🇨🇦, USA🇺🇸 ) </summary>
+  <summary>Always remember why you started ( Canada🇨🇦, USA🇺🇸, N💘 ) </summary>
   <p> 
     <img  alt="N💘" title="<3" height="215px" src="https://media.giphy.com/media/VGACXbkf0AeGs/giphy.gif">
     <img  alt="N💘" title="<3" height="215px" src="https://media.giphy.com/media/GcJN2Dz5XMDeM/giphy.gif">
