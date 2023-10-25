@@ -1,6 +1,6 @@
 ## - 👋 Hi, I’m @yeahzhanym golang developer
 ### - 🌱I'm seeking collaborations and opportunities to work with companies that are dedicated to helping others and contributing to a better world.
-### - 📫 How to reach me yeahzhanym@gmail.com or telegram: yeahzhanym
+### - 📫 How to reach me: yeahzhanym@gmail.com or telegram: yeahzhanym
 
 [![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=Go&logoColor=FFFFFF&message=Go&color=00ADD8&label=)](https://golang.org/)
 [![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&message=PostgreSQL&color=336791&label=)](https://www.postgresql.org/)
