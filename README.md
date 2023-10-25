@@ -1,5 +1,5 @@
 ## - 👋 Hi, I’m @yeahzhanym golang developer
-### - 💞️🌱I’m looking to collaborate, work with companies that help other people and make this world better place to live.
+### - 🌱I'm seeking collaborations and opportunities to work with companies that are dedicated to helping others and contributing to a better world.
 ### - 📫 How to reach me yeahzhanym@gmail.com or telegram: yeahzhanym
 
 [![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=Go&logoColor=FFFFFF&message=Go&color=00ADD8&label=)](https://golang.org/)
@@ -9,7 +9,7 @@
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
 
 <details close>
-  <summary>Always remember why you started ( Canada🇨🇦, USA🇺🇸, N💘 ) </summary>
+  <summary>Always remember why you started ( Canada🇨🇦, USA🇺🇸, N💞️💘 ) </summary>
   <p> 
     <img  alt="N💘" title="<3" height="215px" src="https://media.giphy.com/media/VGACXbkf0AeGs/giphy.gif">
     <img  alt="N💘" title="<3" height="215px" src="https://media.giphy.com/media/GcJN2Dz5XMDeM/giphy.gif">
