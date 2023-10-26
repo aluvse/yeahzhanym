@@ -1,3 +1,4 @@
+
 ### - 👋 Hi, I’m yeahzhanym golang developer
 ### - 🌱I'm seeking collaborations and opportunities to work with companies that are dedicated to helping others and contributing to a better world.
 ### - 📫 How to reach me: yeahzhanym@gmail.com or telegram: yeahzhanym
@@ -9,7 +10,7 @@
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
 
 <details close>
-  <summary>Always remember why you started ( Canada🇨🇦, USA🇺🇸, N💘 ) </summary>
+  <summary>always remember why you started ( Canada🇨🇦, USA🇺🇸, N💘 ) </summary>
   <p> 
     <img  alt="N💘" title="<3" height="215px" src="https://media.giphy.com/media/VGACXbkf0AeGs/giphy.gif">
     <img  alt="N💘" title="<3" height="215px" src="https://media.giphy.com/media/GcJN2Dz5XMDeM/giphy.gif">
@@ -17,9 +18,14 @@
     <img  alt="USA🇺🇸" title="<3" height="265px" src="https://github.com/yeahzhanym/yeahzhanym/blob/main/assets/outside-weather.gif">
   </p>
 </details>
-
 <details close>
-  <summary>GitHub Statistics 📊</summary>
+  <summary>recession proof skills 👷🏼🏗️</summary>
+    <p>
+      🟩proactivity🟦energy🟩work ethic🟦concentration🟩stress resistance🟦learn quickly🟩adapt quickly🟦
+    </p>
+</details>
+<details close>
+  <summary>gitHub statistics 📊</summary>
   <br>
     <p>
       <a href="https://github.com/yeahzhanym" width="100%">
