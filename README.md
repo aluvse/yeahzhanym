@@ -1,19 +1,20 @@
 
 ### - 👋 Hi, I’m yeahzhanym golang developer
 ### - 🌱I'm seeking collaborations and opportunities to work with companies that are dedicated to helping others and contributing to a better world.
-### - 📫 How to reach me: yeahzhanym@gmail.com or telegram: yeahzhanym
-
-[![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=Go&logoColor=FFFFFF&message=Go&color=00ADD8&label=)](https://golang.org/)
-[![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&message=PostgreSQL&color=336791&label=)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&message=MongoDB&color=03ac13&label=)](https://www.mongodb.com/)
+### - 📫 How to reach me: yeahzhanym@gmail.com or [![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/yeahzhanym): yeahzhanym
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
 
 <details close>
-  <summary>always remember why you started ( Canada🇨🇦, USA🇺🇸, N💘 ) </summary>
+  <summary>always remember why you started ( 🇨🇦, 🇺🇸, N💘 ) </summary>
   <p> 
     <img  alt="N💘" title="<3" height="215px" src="https://media.giphy.com/media/VGACXbkf0AeGs/giphy.gif">
-    <img  alt="N💘" title="<3" height="215px" src="https://media.giphy.com/media/GcJN2Dz5XMDeM/giphy.gif">
     <img  alt="Canada🇨🇦" title="<3" height="265px" src="https://github.com/yeahzhanym/yeahzhanym/blob/main/assets/hurricane-canada.gif">
     <img  alt="USA🇺🇸" title="<3" height="265px" src="https://github.com/yeahzhanym/yeahzhanym/blob/main/assets/outside-weather.gif">
   </p>
