@@ -1,7 +1,7 @@
 
 ## - 👋 Hi, I’m yeahzhanym golang developer
 ## - 🌱I'm seeking collaborations and opportunities to work with companies that are dedicated to helping others and contributing to a better world.
-## - 📫 How to reach me - yeahzhanym@gmail.com or [![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yeahzhanym): yeahzhanym
+## - 📫 How to reach me: yeahzhanym@gmail.com or [![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yeahzhanym): yeahzhanym
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
