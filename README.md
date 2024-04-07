@@ -4,9 +4,9 @@
 ## - 📫 How to reach me: yeahzhanym@gmail.com or [![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yeahzhanym)
 
 <details close>
-  <summary>always remember why you started ( 🇨🇦, 🇺🇸, N💘 ) </summary>
+  <summary>always remember why you started ( 🇨🇦, 🇺🇸, "Build a fam💘" ) </summary>
   <p> 
-    <img  alt="N💘" title="<3" height="215px" src="https://media.giphy.com/media/VGACXbkf0AeGs/giphy.gif">
+    <img  alt="Build a fam💘" title="<3" height="215px" src="https://media.giphy.com/media/VGACXbkf0AeGs/giphy.gif">
     <img  alt="Canada🇨🇦" title="<3" height="265px" src="https://github.com/yeahzhanym/yeahzhanym/blob/main/assets/hurricane-canada.gif">
     <img  alt="USA🇺🇸" title="<3" height="265px" src="https://github.com/yeahzhanym/yeahzhanym/blob/main/assets/outside-weather.gif">
   </p>
