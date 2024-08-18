@@ -7,8 +7,8 @@
   <summary>always remember why you started ( 🇨🇦, 🇺🇸, fam💘 ) </summary>
   <p> 
     <img  alt="fam💘" title="<3" height="215px" src="https://media.giphy.com/media/VGACXbkf0AeGs/giphy.gif">
-    <img  alt="Canada🇨🇦" title="<3" height="265px" src="https://github.com/yeahzhanym/yeahzhanym/blob/main/assets/hurricane-canada.gif">
-    <img  alt="USA🇺🇸" title="<3" height="265px" src="https://github.com/yeahzhanym/yeahzhanym/blob/main/assets/outside-weather.gif">
+    <img  alt="Canada🇨🇦" title="<3" height="265px" src="https://github.com/kebradooj/kebradooj/blob/main/assets/hurricane-canada.gif">
+    <img  alt="USA🇺🇸" title="<3" height="265px" src="https://github.com/kebradooj/kebradooj/blob/main/assets/outside-weather.gif">
   </p>
 </details>
 <details close>
@@ -22,7 +22,7 @@
   <br>
     <p>
       <a href="https://github.com/yeahzhanym" width="100%">
-        <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahzhanym&layout=compact">
+        <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebradooj&layout=compact">
         <img alt="GitHub Stats" height="165px" src="https://github-readme-streak-stats.herokuapp.com?user=yeahzhanym&border_radius=4">
       </a>
     </p>
