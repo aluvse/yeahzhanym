@@ -1,7 +1,7 @@
 
 ## - 👋 Hi, I’m yeahzhanym golang developer
 ## - 🌱I'm seeking collaborations and opportunities to work with companies that are dedicated to helping others and contributing to a better world.
-## - 📫 How to reach me: kebradooj@gmail.com or [![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yeahzhanym)
+## - 📫 How to reach me: kebradooj@gmail.com or [![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kebradooj)
 
 <details close>
   <summary>always remember why you started ( 🇨🇦, 🇺🇸, fam💘 ) </summary>
@@ -21,7 +21,7 @@
   <summary>gitHub statistics 📊</summary>
   <br>
     <p>
-      <a href="https://github.com/yeahzhanym" width="100%">
+      <a href="https://github.com/kebradooj" width="100%">
         <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebradooj&layout=compact">
         <img alt="GitHub Stats" height="165px" src="https://github-readme-streak-stats.herokuapp.com?user=yeahzhanym&border_radius=4">
       </a>
