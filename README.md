@@ -7,8 +7,8 @@
   <summary>always remember why you started ( 🇨🇦, 🇺🇸, fam💘 ) </summary>
   <p> 
     <img  alt="fam💘" title="<3" height="215px" src="https://media.giphy.com/media/VGACXbkf0AeGs/giphy.gif">
-    <img  alt="Canada🇨🇦" title="<3" height="265px" src="https://github.com/kebradooj/kebradooj/blob/main/assets/hurricane-canada.gif">
-    <img  alt="USA🇺🇸" title="<3" height="265px" src="https://github.com/kebradooj/kebradooj/blob/main/assets/outside-weather.gif">
+    <img  alt="Canada🇨🇦" title="<3" height="265px" src="https://github.com/yeahzhanym/yeahzhanym/blob/main/assets/hurricane-canada.gif">
+    <img  alt="USA🇺🇸" title="<3" height="265px" src="https://github.com/yeahzhanym/yeahzhanym/blob/main/assets/outside-weather.gif">
   </p>
 </details>
 <details close>
